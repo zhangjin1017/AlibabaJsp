@@ -10,5 +10,6 @@
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <img src="VerifyCodeServlet1.do"/>
+<h1>yf</h1>
 </body>
 </html>
