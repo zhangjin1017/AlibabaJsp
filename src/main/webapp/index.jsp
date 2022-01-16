@@ -1,4 +1,6 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,5 +14,6 @@
 <img src="VerifyCodeServlet1.do"/>
 <h1>yf</h1>
 <h1>zj</h1><h1>zj</h1><h1>zj</h1><h1>zj</h1>
+
 </body>
 </html>
